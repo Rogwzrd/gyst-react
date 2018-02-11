@@ -18,3 +18,4 @@ To donload all of the necessary dependencies and run this application locally fo
 ```
 yarn install-run
 ```
+To view the depolyed application visit this link https://salty-lowlands-12733.herokuapp.com/
