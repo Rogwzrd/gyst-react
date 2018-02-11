@@ -2,6 +2,12 @@
 
 GYST stands for Get Your Sh\*\t Together. This application is a lightweight life tracking tool that helps users manage their time, money, and relationships.
 
+### Collaborators
+
+* Sean Collins https://github.com/scollins33
+* Kim Owens https://github.com/kowens32
+* Mike Daye https://github.com/Rogwzrd
+
 ### Technologies used:
 
 * Node
