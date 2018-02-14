@@ -1,6 +1,6 @@
 # gyst-react
 
-GYST stands for Get Your Sh\*\t Together. This application is a lightweight life tracking tool that helps users manage their time, money, and relationships.
+GYST stands for Get Your Sh\*t Together. This application is a lightweight life tracking tool that helps users manage their time, money, and relationships.
 
 ### Collaborators
 
